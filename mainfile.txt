@@ -4,5 +4,5 @@ line from main
 line2 from main
 line from dev
 line from dev2
-#new line from div2
-#new 2 line from div2
+new line from dev after merge
+new 2 line from dev after merge
