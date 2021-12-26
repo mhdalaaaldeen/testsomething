@@ -6,3 +6,4 @@ line from dev
 line from dev2
 new line from dev after merge
 new 2 line from dev after merge
+new line after merge main->dev
