@@ -4,6 +4,10 @@ line from main
 line2 from main
 line from dev
 line from dev2
+
+resolve the conflict
 new line from dev after merge
 new 2 line from dev after merge
 new line after merge main->dev
+new 2 line from dev after mergesdasdasd
+@new line from dev2 before git pull from main
