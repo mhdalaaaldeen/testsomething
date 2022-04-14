@@ -2,3 +2,8 @@ newfile from dev2sdadasdasdad
 asdasdasd
 asdasdasd
 asdasd
+
+
+commit -1 
+commit -1
+commmit 1
