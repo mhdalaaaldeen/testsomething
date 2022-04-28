@@ -1,0 +1,6 @@
+[submodule "sub"]
+	path = sub
+	url = https://github.com/mhdalaaaldeen/testsomething
+[submodule "moodle"]
+	path = moodle
+	url = https://github.com/mhdalaaaldeen/testsomething
